@@ -7,5 +7,6 @@ int main()
 	scanf("%d",&a);
 	b=(a-((a/10)*10))*10+(a/10);
 	printf("So nghich dao la: %d",b);
+	printf("\n Tui moi sua lai");
 	return 0;
 }
