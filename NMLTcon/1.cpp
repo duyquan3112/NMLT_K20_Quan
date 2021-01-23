@@ -12,6 +12,7 @@ int main()
 	z = (2 * x + sqrt(n))/13;
 	printf("Z = %.2lf",z);
 	printf("Tui sua lai file nay");
+	//Nguyen Duy Quan
 	return 0;
 }
 	
